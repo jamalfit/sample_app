@@ -1,0 +1,3 @@
+== Welcome to Rails
+
+Sample appp for Ruby on rails tutorial :Learn rails by example by [Michael Hartl]9http://michaelhart.com/).
